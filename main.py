@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1h2kGAgC9ANKOSIBueMP1V7Qnzt-ekLKx
 """
 
-pip install -r requirements.txt
 
 import streamlit as st
 from translator_utils import translate
