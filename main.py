@@ -8,6 +8,7 @@ Original file is located at
 """
 
 import sys
+import os
 import streamlit as st
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))  # Add main directory to path
 from translator_utils import translate
