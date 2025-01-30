@@ -10,7 +10,6 @@ Original file is located at
 import os
 import json
 
-!pip install -r requirements.txt
 
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
